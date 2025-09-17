@@ -1,0 +1,11 @@
+fastf1
+pandas
+livef1
+numpy
+matplotlib
+scikit-learn
+seaborn
+requests
+tqdm
+jupyter
+ipykernel
